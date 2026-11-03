@@ -1,16 +1,56 @@
-## Hi there 👋
+Hi, I'm Umaid 👋
 
-<!--
-**shaikhumaid1/shaikhumaid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Aspiring SOC Analyst | Cybersecurity Learner
 
-Here are some ideas to get you started:
+I'm a final-year B.Sc. Information Technology student building practical skills in cybersecurity, networking, Linux administration, and security operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to develop the technical and analytical skills required for an entry-level SOC Analyst (Tier 1) role.
+
+🔐 Areas of Focus
+
+- Security Operations Center (SOC)
+- Security Monitoring and Alert Analysis
+- Network Traffic Analysis
+- Linux and Windows Security
+- Incident Response and Threat Detection
+- SIEM Fundamentals
+- Vulnerability Assessment
+
+🧰 Technical Skills
+
+Category| Technologies
+Operating Systems| Windows 11, Ubuntu, Kali Linux
+Networking| TCP/IP, DNS, DHCP, NAT
+Security Tools| Wireshark, Nmap
+SIEM| Learning Wazuh and Splunk
+Programming| Python
+Version Control| Git and GitHub
+
+Skills and tools are being developed through practical labs and projects.
+
+🚀 Projects
+
+- Python Password Checker & Generator — Python-based password utility.
+- Network Traffic Analysis — Planned investigation of PCAP files, DNS activity and suspicious connections.
+- Linux Security Labs — Linux users, permissions, SSH and authentication logs.
+- SOC Home Lab — Planned endpoint monitoring and SIEM investigations using Wazuh.
+
+📚 Current Learning
+
+- Cybersecurity Fundamentals
+- CCNA and Networking Fundamentals
+- Linux System Administration
+- Security Monitoring and Incident Response
+- MITRE ATT&CK Framework
+
+🎯 Career Goal
+
+To become a capable SOC Analyst by developing practical investigation skills, understanding security events, identifying suspicious activity, and documenting incidents effectively.
+
+📫 Connect With Me
+
+- GitHub: "@shaikhumaid1" (https://github.com/shaikhumaid1)
+
+---
+
+Learning continuously. Practising consistently. Building through hands-on experience.

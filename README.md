@@ -43,10 +43,13 @@ Skills and tools are being developed through practical labs and projects.
 - Security Monitoring and Incident Response
 - MITRE ATT&CK Framework
 
-🎯 Career Goal
+ 🎯 Career Vision
 
-To become a capable SOC Analyst by developing practical investigation skills, understanding security events, identifying suspicious activity, and documenting incidents effectively.
+My long-term goal is to grow into a senior cybersecurity leadership role, managing high-performing teams, leading security operations, making strategic decisions and driving organizational security initiatives.
 
+I aim to develop both technical expertise and leadership capabilities, progressing from hands-on security operations to team management and executive-level responsibilities.
+
+My focus: Technical Excellence • Team Leadership • Strategic Thinking • Decision Making • Cybersecurity Management
 📫 Connect With Me
 
 - GitHub: "@shaikhumaid1" (https://github.com/shaikhumaid1)

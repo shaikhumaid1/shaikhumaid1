@@ -1,59 +1,81 @@
-Hi, I'm Umaid 👋
+# Hi, I'm Umaid 👋
 
-🛡️ Aspiring SOC Analyst | Cybersecurity Learner
+🛡️ **Aspiring SOC Analyst | Cybersecurity Learner | IT Graduate-in-Progress**
 
 I'm a final-year B.Sc. Information Technology student building practical skills in cybersecurity, networking, Linux administration, and security operations.
 
 My goal is to develop the technical and analytical skills required for an entry-level SOC Analyst (Tier 1) role.
 
-🔐 Areas of Focus
+## 🔐 Areas of Focus
 
-- Security Operations Center (SOC)
-- Security Monitoring and Alert Analysis
-- Network Traffic Analysis
-- Linux and Windows Security
-- Incident Response and Threat Detection
-- SIEM Fundamentals
-- Vulnerability Assessment
+- Security Operations Center (SOC) and security monitoring
+- Alert triage, investigation, and incident response
+- Network traffic analysis and network fundamentals
+- Linux and Windows security
+- SIEM fundamentals and log analysis
+- Vulnerability assessment and threat detection
 
-🧰 Technical Skills
+## 🧰 Technical Skills
 
-Category| Technologies
-Operating Systems| Windows 11, Ubuntu, Kali Linux
-Networking| TCP/IP, DNS, DHCP, NAT
-Security Tools| Wireshark, Nmap
-SIEM| Learning Wazuh and Splunk
-Programming| Python
-Version Control| Git and GitHub
+| Category | Technologies / Topics |
+|---|---|
+| Operating Systems | Windows 11, Linux, Kali Linux |
+| Networking | TCP/IP, DNS, DHCP, NAT |
+| Security Tools | Wireshark, Nmap |
+| SIEM | Learning Wazuh and Splunk |
+| Programming | Python |
+| Version Control | Git and GitHub |
 
-Skills and tools are being developed through practical labs and projects.
+*Skills and tools are being developed through hands-on labs, coursework, and projects.*
 
-🚀 Projects
+## 🚀 Featured Projects
 
-- Python Password Checker & Generator — Python-based password utility.
-- Network Traffic Analysis — Planned investigation of PCAP files, DNS activity and suspicious connections.
-- Linux Security Labs — Linux users, permissions, SSH and authentication logs.
-- SOC Home Lab — Planned endpoint monitoring and SIEM investigations using Wazuh.
+### 1. Password Security Suite (PSS)
 
-📚 Current Learning
+A Python-based, local-first password security toolkit with a command-line interface and local Flask GUI.
 
-- Cybersecurity Fundamentals
-- CCNA and Networking Fundamentals
-- Linux System Administration
-- Security Monitoring and Incident Response
-- MITRE ATT&CK Framework
+- Cryptographically secure password and passphrase generation using Python `secrets`
+- Offline password-strength analysis using zxcvbn
+- Local SQLite credential vault
+- Argon2id-based key derivation and AES-256-GCM authenticated encryption
+- Local-first design: no cloud vault or remote password-checking API in core operation
 
- 🎯 Career Vision
+**Technologies:** Python, Flask, SQLite, Argon2id, AES-256-GCM, zxcvbn, pytest
 
-My long-term goal is to grow into a senior cybersecurity leadership role, managing high-performing teams, leading security operations, making strategic decisions and driving organizational security initiatives.
+- [View source code](https://github.com/shaikhumaid1/Password-security-suite)
+- [View v1.0.0-rc.1 pre-release](https://github.com/shaikhumaid1/Password-security-suite/releases/tag/v1.0.0-rc.1)
 
-I aim to develop both technical expertise and leadership capabilities, progressing from hands-on security operations to team management and executive-level responsibilities.
+> **Project status:** Pre-release for evaluation. It has not undergone an independent professional security audit. Use synthetic test credentials only; do not treat it as a production-certified password manager.
 
-My focus: Technical Excellence • Team Leadership • Strategic Thinking • Decision Making • Cybersecurity Management
-📫 Connect With Me
+### 2. Python Password Checker & Generator
 
-- GitHub: "@shaikhumaid1" (https://github.com/shaikhumaid1)
+A Python utility project focused on password generation and basic password checking.
+
+- [View repository](https://github.com/shaikhumaid1/Password-security-suite)
+
+## 🧪 Practical Learning & Labs
+
+- Network traffic analysis with Wireshark
+- Linux users, groups, permissions, SSH, and authentication logs
+- Networking and troubleshooting practice
+- SOC home-lab learning with Wazuh and Splunk
+
+## 📚 Current Learning
+
+- Cybersecurity fundamentals and CEH learning
+- CCNA and networking fundamentals
+- Linux system administration
+- Security monitoring and incident response
+- MITRE ATT&CK framework
+
+## 🎯 Career Vision
+
+My long-term goal is to grow from hands-on security operations into cybersecurity leadership—combining technical expertise, sound decision-making, and the ability to lead security initiatives.
+
+## 📫 Connect
+
+- GitHub: [@shaikhumaid1](https://github.com/shaikhumaid1)
 
 ---
 
-Learning continuously. Practising consistently. Building through hands-on experience.
+*Learning continuously. Practising consistently. Building through hands-on experience.*
